@@ -1,0 +1,6 @@
+[submodule "group51-kvstore"]
+	path = group51-kvstore
+	url = git@github.com:Berkeley-CS162/group51-kvstore.git
+[submodule "group51"]
+	path = group51
+	url = git@github.com:Berkeley-CS162/group51.git
